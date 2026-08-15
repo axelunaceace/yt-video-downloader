@@ -68,7 +68,7 @@ sudo apt install -y python3 python3-tk yt-dlp ffmpeg
 ### 2. Get the app
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/aceblade-downloader.git
+git clone https://github.com/axelunaceace/yt-video-downloader.git
 cd aceblade-downloader
 ```
 
